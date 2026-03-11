@@ -1,0 +1,25 @@
+[
+ {
+  "name":"Passport Application",
+  "documents":["Aadhaar","PAN","Birth Certificate"],
+  "timeline":"30 days",
+  "fees":"1500 INR",
+  "website":"https://passportindia.gov.in"
+ },
+
+ {
+  "name":"Aadhaar Update",
+  "documents":["Address proof","Existing Aadhaar"],
+  "timeline":"7 days",
+  "fees":"50 INR",
+  "website":"https://uidai.gov.in"
+ },
+
+ {
+  "name":"Driving License",
+  "documents":["Aadhaar","Age Proof"],
+  "timeline":"14 days",
+  "fees":"500 INR",
+  "website":"https://parivahan.gov.in"
+ }
+]
